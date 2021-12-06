@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Neel Dedhia!
 
-<!--
-**neel-dedhia/neel-dedhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Enthusiastic Lazy Web Developer from Mumbai, India.
 
-Here are some ideas to get you started:
+**Technologies I work on 👇**
+**FrontEnd:** HTML 5, CSS3, Javascript.
+**Frameworks:** ReactJS, NextJS, SASS, PostCSS, TailwindCSS, Bootstrap.
+**Backend:** NodeJS, Python.
+**Database:** MySQL, MongoDB.
+**UI/UX Design**: Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Types of Application I'am skilled at developing👇**
+**Website**: One-Page, Portfolio, E-Commerce, Blogging.
+**Mobile Apps(Android/IOS)**: Hybrid Apps with React-Native and PWA-Apps.
+**Others**: System & Database Architecture, UI/UX Wireframes.
+
+## Find me on Internet🌎
+- Portfolio - http://neeldedhia.bio.link/
+- Linkedin - https://www.linkedin.com/in/neel-dedhia/
+- Twitter - https://twitter.com/neel_dedhia
+- Medium - http://neeldedhia.bio.link/
+- Dev.to - https://dev.to/neel_dedhia
+- Instagram - https://instagram.com/arsictography
+
+Good to see you here!😄
+Looking forward to build a valuable connection with you!🤝
+*© 2021 - Neel Dedhia - @neel-dedhia*
