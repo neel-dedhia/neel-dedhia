@@ -3,16 +3,16 @@
 I am a Full Stack Enthusiastic Lazy Web Developer from Mumbai, India.
 
 **Technologies I work on 👇**
-**FrontEnd:** HTML 5, CSS3, Javascript.
-**Frameworks:** ReactJS, NextJS, SASS, PostCSS, TailwindCSS, Bootstrap.
-**Backend:** NodeJS, Python.
-**Database:** MySQL, MongoDB.
-**UI/UX Design**: Figma.
+- **FrontEnd:** HTML 5, CSS3, Javascript.
+- **Frameworks:** ReactJS, NextJS, SASS, PostCSS, TailwindCSS, Bootstrap.
+- **Backend:** NodeJS, Python.
+- **Database:** MySQL, MongoDB.
+- **UI/UX Design**: Figma.
 
 **Types of Application I'am skilled at developing👇**
-**Website**: One-Page, Portfolio, E-Commerce, Blogging.
-**Mobile Apps(Android/IOS)**: Hybrid Apps with React-Native and PWA-Apps.
-**Others**: System & Database Architecture, UI/UX Wireframes.
+- **Website**: One-Page, Portfolio, E-Commerce, Blogging.
+- **Mobile Apps(Android/IOS)**: Hybrid Apps with React-Native and PWA-Apps.
+- **Others**: System & Database Architecture, UI/UX Wireframes.
 
 ## Find me on Internet🌎
 - Portfolio - http://neeldedhia.bio.link/
