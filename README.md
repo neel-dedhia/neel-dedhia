@@ -18,7 +18,7 @@ I am a Full Stack Enthusiastic Lazy Web Developer from Mumbai, India.
 - Portfolio - http://neeldedhia.bio.link/
 - Linkedin - https://www.linkedin.com/in/neel-dedhia/
 - Twitter - https://twitter.com/neel_dedhia
-- Medium - http://neeldedhia.bio.link/
+- Medium - https://medium.com/@neeldedhia
 - Dev.to - https://dev.to/neel_dedhia
 - Instagram - https://instagram.com/arsictography
 
