@@ -4,7 +4,7 @@ I am an Enthusiastic LAzy Engineer from Mumbai, India.
 
 **Technologies I work on 👇**
 - **FrontEnd:** HTML 5, CSS3, Javascript.
-- **Frameworks:** ReactJS, NextJS, SASS, PostCSS, TailwindCSS, Bootstrap.
+- **Frameworks:** ReactJS, NextJS, ElectronJS, SASS, PostCSS, TailwindCSS.
 - **Backend:** NodeJS, Python.
 - **Database:** MySQL, MongoDB.
 - **UI/UX Design**: Figma.
