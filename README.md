@@ -15,12 +15,10 @@ I am an Enthusiastic LAzy Engineer from Mumbai, India.
 - **Others**: System & Database Architecture, UI/UX Wireframes.
 
 ## Find me on the Internet🌎
-- Portfolio - http://neeldedhia.bio.link/
 - LinkedIn - https://www.linkedin.com/in/neel-dedhia/
 - Twitter - https://twitter.com/neel_dedhia
 - Medium - https://medium.com/@neeldedhia
 - Dev.to - https://dev.to/neel_dedhia
-- Instagram - https://instagram.com/arsictography
 
 ### Good to see you here!😄
 
